@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\bin\Debug\net6.0-windows\TimerKomponenta.exe
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\bin\Debug\net6.0-windows\TimerKomponenta.deps.json
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\bin\Debug\net6.0-windows\TimerKomponenta.runtimeconfig.json
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\bin\Debug\net6.0-windows\TimerKomponenta.dll
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\bin\Debug\net6.0-windows\TimerKomponenta.pdb
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.Form1.resources
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.AssemblyInfo.cs
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.dll
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\refint\TimerKomponenta.dll
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.pdb
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\TimerKomponenta.genruntimeconfig.cache
+C:\Users\HP\source\repos\TimerKomponenta\TimerKomponenta\obj\Debug\net6.0-windows\ref\TimerKomponenta.dll
